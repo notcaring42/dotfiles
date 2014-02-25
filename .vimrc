@@ -30,12 +30,12 @@ set hidden        " keep undo history for background buffers
 set autoread      " autoamically read the file again when it is changed externally
 set showtabline=2 " always show tab bar
 
-" Editting configuration
+" Editing configuration
 set expandtab
-set tabstop=2
-set shiftwidth=2
-set softtabstop=2
 set autoindent
+set tabstop=4
+set shiftwidth=4
+set softtabstop=4
 
 " set smartindent
 set laststatus=2
